@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.94c99ac3.chunk.css",
-    "main.js": "./static/js/main.b5c08b94.chunk.js",
-    "main.js.map": "./static/js/main.b5c08b94.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7dacd673.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7dacd673.js.map",
-    "static/js/2.1c9f03fc.chunk.js": "./static/js/2.1c9f03fc.chunk.js",
-    "static/js/2.1c9f03fc.chunk.js.map": "./static/js/2.1c9f03fc.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.751c096ce8c1d9e32104a4a0d613f188.js": "./precache-manifest.751c096ce8c1d9e32104a4a0d613f188.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.94c99ac3.chunk.css.map": "./static/css/main.94c99ac3.chunk.css.map",
-    "static/js/2.1c9f03fc.chunk.js.LICENSE.txt": "./static/js/2.1c9f03fc.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "./static/media/home-background.abd2ba69.svg",
-    "static/media/logo.svg": "./static/media/logo.26434f1f.svg"
+    "main.css": "/Ecoleta/static/css/main.0f6d67d8.chunk.css",
+    "main.js": "/Ecoleta/static/js/main.b5c08b94.chunk.js",
+    "main.js.map": "/Ecoleta/static/js/main.b5c08b94.chunk.js.map",
+    "runtime-main.js": "/Ecoleta/static/js/runtime-main.0371082f.js",
+    "runtime-main.js.map": "/Ecoleta/static/js/runtime-main.0371082f.js.map",
+    "static/js/2.1c9f03fc.chunk.js": "/Ecoleta/static/js/2.1c9f03fc.chunk.js",
+    "static/js/2.1c9f03fc.chunk.js.map": "/Ecoleta/static/js/2.1c9f03fc.chunk.js.map",
+    "index.html": "/Ecoleta/index.html",
+    "precache-manifest.7d5384a3b5a16f18153ee874f2da6a97.js": "/Ecoleta/precache-manifest.7d5384a3b5a16f18153ee874f2da6a97.js",
+    "service-worker.js": "/Ecoleta/service-worker.js",
+    "static/css/main.0f6d67d8.chunk.css.map": "/Ecoleta/static/css/main.0f6d67d8.chunk.css.map",
+    "static/js/2.1c9f03fc.chunk.js.LICENSE.txt": "/Ecoleta/static/js/2.1c9f03fc.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Ecoleta/static/media/home-background.abd2ba69.svg",
+    "static/media/logo.svg": "/Ecoleta/static/media/logo.26434f1f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dacd673.js",
+    "static/js/runtime-main.0371082f.js",
     "static/js/2.1c9f03fc.chunk.js",
-    "static/css/main.94c99ac3.chunk.css",
+    "static/css/main.0f6d67d8.chunk.css",
     "static/js/main.b5c08b94.chunk.js"
   ]
 }
